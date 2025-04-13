@@ -1,5 +1,3 @@
-# CryptoTradingBot-
-Crypto Trading Bot 
 # Crypto Trading Bot
 
 This project is an automated crypto trading bot built with C/C++ and designed for fault-tolerant, high-performance trading. It integrates with AWS Lambda and DynamoDB to process over $1K of daily trading volume across five exchanges while maintaining an average execution latency of 150ms.
